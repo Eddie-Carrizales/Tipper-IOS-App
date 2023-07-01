@@ -39,7 +39,7 @@ Additional features to be implemented:
 
 Here's a walkthrough/Demo of the App:
 
-![](https://github.com/Eddie-Carrizales/Tipper-IOS-App/Tipper.gif)
+![](https://github.com/Eddie-Carrizales/Tipper-IOS-App/blob/main/Tipper.gif)
 
 GIF created with https://imgur.com
 
