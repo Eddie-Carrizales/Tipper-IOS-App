@@ -30,11 +30,6 @@ The following functionality is complete:
 * [✅] When any of the totals is not a calculation they both automatically revert back to zero to avoid user confusion
 * [✅] Added user defaults saving capability to the theme color and the currency symbol chosen by the user, this setting will prevail even after app restart
 
-Additional features to be implemented:
-
-* [ ] Remembering the bill amount across app restarts (if <10mins)
-* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
-
 ## Video Walkthrough
 
 Here's a walkthrough/Demo of the App:
@@ -45,7 +40,7 @@ GIF created with https://imgur.com
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Challenges encountered while building the app.
 There were a couple of challenges while building the app.
 1. Since I did not know anything about Swift and this was a prework I was pretty much learning on my own and experimenting with the code and the different buttons, labels, segmented controllers, text fields, slider, and a picker view.
 2. After getting more familiar and finishing the first view controller, I wanted to add the settings screen and thus learned how to add a navigation panel and a second view controller. This posed a challenge since I did not know how to add a second one nor did I know how to connect the first one to the second and move between them. I finally figured out how to do it and added some transitions.
